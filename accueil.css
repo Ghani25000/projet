@@ -1,0 +1,16 @@
+.header-nav {
+    display: flex;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100px;
+    height: 100px;
+    background-color: rgba(68, 140, 227, 0.679);
+    z-index: index 10; ;
+
+}
+
+
+bod {
+    background-color: rgb(231, 158, 240);
+}
